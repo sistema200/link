@@ -1,6 +1,6 @@
 {
-  "name": "Despierta Mujer",
-  "short_name": "Mujer",
+  "name": "Ciberseguridad",
+  "short_name": "Ciber",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#6A0DAD",
@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "Imagenes/Mujer.png",
+      "src": "logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "Imagenes/Mujer.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
