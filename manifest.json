@@ -3,8 +3,8 @@
   "short_name": "Ciber",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#6A0DAD",
-  "theme_color": "#6A0DAD",
+  "background_color": "#0034FF",
+  "theme_color": "#0034FF",
   "orientation": "portrait",
   "icons": [
     {
